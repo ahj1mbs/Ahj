@@ -1,41 +1,5 @@
 [
   {
-    "name": "TOFFEE Movies VIP",
-    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_724353001725875591.png",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1762957368:KeyName=prod_linear:Signature=gmXnaq61ShMXkGHz-6kawzINFJLosXFqFdwp0N1jBtalOjw6IpqmelLZW8x6JLa5lNlnJGhCsLPdIRsaxTgYDw"
-  },
-  {
-    "name": "TOFFEE Dramas VIP",
-    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_764950001725875605.png",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1762957368:KeyName=prod_linear:Signature=gmXnaq61ShMXkGHz-6kawzINFJLosXFqFdwp0N1jBtalOjw6IpqmelLZW8x6JLa5lNlnJGhCsLPdIRsaxTgYDw"
-  },
-  {
-    "name": "CNN VIP",
-    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/cnn/playlist.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/333/logo/240x240/mobile_logo_146607001735536058.png",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1762957368:KeyName=prod_linear:Signature=gmXnaq61ShMXkGHz-6kawzINFJLosXFqFdwp0N1jBtalOjw6IpqmelLZW8x6JLa5lNlnJGhCsLPdIRsaxTgYDw"
-  },
-  {
-    "name": "Euro Sport HD",
-    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/euro_sports_hd/playlist.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1762957368:KeyName=prod_linear:Signature=gmXnaq61ShMXkGHz-6kawzINFJLosXFqFdwp0N1jBtalOjw6IpqmelLZW8x6JLa5lNlnJGhCsLPdIRsaxTgYDw"
-  },
-  {
-    "name": "ICC Test Championship Highlights",
-    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/icc_wtc_final/playlist.m3u8",
-    "logo": "https://assets-prod.services.toffeelive.com/f_webp,w_400,q_100/PnZefJcBcqxnFHJBoxca/posters/955ae898-8336-4936-8d78-c6b8866e35f7.png",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1762957368:KeyName=prod_linear:Signature=gmXnaq61ShMXkGHz-6kawzINFJLosXFqFdwp0N1jBtalOjw6IpqmelLZW8x6JLa5lNlnJGhCsLPdIRsaxTgYDw"
-  },
-  {
-    "name": "SONY SPORTS TEN 1 HD",
-    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1762957368:KeyName=prod_linear:Signature=gmXnaq61ShMXkGHz-6kawzINFJLosXFqFdwp0N1jBtalOjw6IpqmelLZW8x6JLa5lNlnJGhCsLPdIRsaxTgYDw"
-  },
-  {
     "name": "SONY SPORTS TEN 2 HD",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png",
